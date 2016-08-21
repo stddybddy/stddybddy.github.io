@@ -1,0 +1,30 @@
+h2, p {color: red;}
+h1 {color: blue;
+padding: 40px;}
+
+p {
+  background-color: black;
+}
+p {font-family: "Arial", sans-serif;}
+h1 {font-size: 400%;}
+li {font-style: italic;
+  font-weight: bold;}
+body {background-color:orange;}
+#statement {font-size: 300%;}
+.yellow {color: yellow;}
+
+body {margin: auto;
+	width: 50%;}
+
+img {padding: 10%;}
+
+table {border-collapse: collapse;}
+
+th, td {border: 10px solid blue;
+margin: 40px;}
+
+#talent {margin-bottom: 40px}
+
+#elchaar {margin-left: auto;
+  margin-right: 5px;
+  width: 300px;}
